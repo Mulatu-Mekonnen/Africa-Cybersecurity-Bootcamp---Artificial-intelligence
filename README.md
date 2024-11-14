@@ -1,1 +1,1 @@
-Guss Nuber game
+Guss Number game
